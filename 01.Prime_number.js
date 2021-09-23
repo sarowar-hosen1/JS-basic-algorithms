@@ -13,4 +13,4 @@ function isPrime(n) {
 }
 
 const result = isPrime(50);
-console.log(result);
+console.log(result); // false 
