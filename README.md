@@ -16,7 +16,9 @@
 - <a href="#longest_word">Longest word</a>
 - <a href="#recursion">Recursion function</a>
 
-```js id="prime"
+<h3 id="prime">Prime number</h3>
+
+```js
     function isPrime(n) {
     let divisor = 2;
 
