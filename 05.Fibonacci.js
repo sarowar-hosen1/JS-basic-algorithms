@@ -9,7 +9,4 @@ function fibonacci(n) {
     return fibo[n]
 }
 
-const result = fibonacci(12);
-console.log(result);
-
-
+fibonacci(11); // result will be 89

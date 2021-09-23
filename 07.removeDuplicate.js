@@ -13,5 +13,4 @@ function removeDuplicate(numbers) {
     return unique.sort((a, b) => a -b);
 }
 
-const output = removeDuplicate(numbers);
-console.log(output);
+removeDuplicate(numbers); //result will be  [1, 2, 3, 4, 5, 7, 55, 69, 78, 85]

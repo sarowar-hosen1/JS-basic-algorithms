@@ -9,7 +9,7 @@ function reverse(str) {
     return rtnStr.join('');
 }
 
-const output = reverse("I love Afsana");
+reverse("I love my country");
 
 
 //try 2
@@ -19,4 +19,4 @@ function reverse2(str) {
     return str.split('').reverse().join('');
 }
 
-console.log(reverse2("I love Jarin"));
+reverse2("I love my country");

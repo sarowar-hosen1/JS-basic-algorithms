@@ -5,4 +5,4 @@ function isLeapYear(year) {
 }
 
 const result = isLeapYear(1600);
-console.log(result);
+console.log(result); // result wiil be true 

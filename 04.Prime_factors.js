@@ -14,4 +14,4 @@ function primeFactor(n){
 }
 
 const result = primeFactor(50);
-console.log(result);
+console.log(result); //result will be [2,5,5];

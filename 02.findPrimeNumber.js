@@ -18,5 +18,4 @@ function findPrime(numbers) {
     return prime;
 }
 
-const result = findPrime(numbers);
-console.log(result);
+const result = findPrime(numbers); //result is 3,5,7,17,23

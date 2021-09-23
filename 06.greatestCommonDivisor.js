@@ -13,5 +13,4 @@ function greatestCommonDivisor(a, b){
     return greatestDivisor;
 }
 
-const output = greatestCommonDivisor(7,21);
-console.log(output);
+greatestCommonDivisor(7,21); // result will be 7

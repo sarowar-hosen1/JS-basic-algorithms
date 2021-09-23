@@ -6,7 +6,7 @@ function findFactorial1(num) {
     }
     return factorial;
 }
-findFactorial1(5)
+findFactorial1(5)  // result will be 120
 
 // while loop
 function findFactorial2(num) {
@@ -19,7 +19,7 @@ function findFactorial2(num) {
     return factorial;
 }
 
-findFactorial2(5)
+findFactorial2(5)  //result will be 120
 
 // recursion way
 function findFactorial3(num){
@@ -31,4 +31,4 @@ function findFactorial3(num){
     }
 }
 
-console.log(findFactorial3(3));
+console.log(findFactorial3(5));  //result will be 120
