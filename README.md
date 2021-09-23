@@ -36,6 +36,8 @@
 const result = isPrime(50);
 console.log(result); // false
 ```
+<br>
+<br>
 
 <h3 id="prime_array">Prime number from array</h3>
 
@@ -62,6 +64,8 @@ function findPrime(numbers) {
 
 const result = findPrime(numbers); //result is 3,5,7,17,23
 ```
+<br>
+<br>
 
 <h3 id="prime_factor">Prime factor</h3>
 
@@ -84,6 +88,8 @@ function primeFactor(n){
 const result = primeFactor(50);
 console.log(result); //result will be [2,5,5];
 ```
+<br>
+<br>
 
 <h3 id="leap_year">Leap year</h3>
 
@@ -97,6 +103,8 @@ function isLeapYear(year) {
 const result = isLeapYear(1600);
 console.log(result); // result wiil be true 
 ```
+<br>
+<br>
 
 <h3 id="factorial">Factorial</h3>
 
@@ -136,6 +144,8 @@ function findFactorial3(num){
 
 findFactorial3(5);  //result will be 120
 ```
+<br>
+<br>
 
 <h3 id="fibonacci">Fibonacci</h3>
 
@@ -153,6 +163,8 @@ function fibonacci(n) {
 
 fibonacci(11); // result will be 89
 ```
+<br>
+<br>
 
 <h3 id="greatest_common">Greatest common number</h3>
 
@@ -174,6 +186,8 @@ function greatestCommonDivisor(a, b){
 
 greatestCommonDivisor(7,21); // result will be 7
 ```
+<br>
+<br>
 
 <h3 id="remove_duplicate">Remove duplicate from array</h3>
 
@@ -195,6 +209,8 @@ function removeDuplicate(numbers) {
 
 removeDuplicate(numbers); //result will be  [1, 2, 3, 4, 5, 7, 55, 69, 78, 85]
 ```
+<br>
+<br>
 
 <h3 id="swap_number">Swap number</h3>
 
@@ -224,6 +240,8 @@ function swap3(a, b) {
 }
 
 ```
+<br>
+<br>
 
 <h3 id="reverse_string">Reverse string</h3>
 
@@ -251,6 +269,8 @@ function reverse2(str) {
 
 reverse2("I love my country");
 ```
+<br>
+<br>
 
 <h3 id="reverse_word">Reverse word</h3>
 
@@ -261,6 +281,8 @@ function reverse(word) {
 }
 reverse("I love my country");
 ```
+<br>
+<br>
 
 <h3 id="longest_word">Longest word</h3>
 
@@ -280,6 +302,8 @@ function findLongestWord(str) {
   findLongestWord("I love my country");
 
 ```
+<br>
+<br>
 
 <h3 id="recursion">Recursion function</h3>
 
