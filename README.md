@@ -1,5 +1,7 @@
 # JavaScript Basic Algorithms
 
+### Topic
+
 - <a href="http://">Prime number</a>
 - <a href="http://">Prime number from array</a>
 - <a href="http://">Prime factor</a>
@@ -14,7 +16,7 @@
 - <a href="http://">Longest word</a>
 - <a href="http://">Recursion function</a>
 
-<pre>
+```js
     function isPrime(n) {
     let divisor = 2;
 
@@ -31,4 +33,4 @@
 
 const result = isPrime(50);
 console.log(result); // false 
-</pre>
+```
