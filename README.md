@@ -2,21 +2,21 @@
 
 ### Topic
 
-- <a href="http://">Prime number</a>
-- <a href="http://">Prime number from array</a>
-- <a href="http://">Prime factor</a>
-- <a href="http://">Leap year</a>
-- <a href="http://">Factorial number</a>
-- <a href="http://">Fibonacci number</a>
-- <a href="http://">Greatest common divisor</a>
-- <a href="http://">Remove duplicate from array</a>
-- <a href="http://">Swap number</a>
-- <a href="http://">Reverse string</a>
-- <a href="http://">Reverse word</a>
-- <a href="http://">Longest word</a>
-- <a href="http://">Recursion function</a>
+- <a href="#prime">Prime number</a>
+- <a href="#prime_array">Prime number from array</a>
+- <a href="#prime_factor">Prime factor</a>
+- <a href="#leap_year">Leap year</a>
+- <a href="#factorial">Factorial number</a>
+- <a href="#fibonacci">Fibonacci number</a>
+- <a href="#greatest_common">Greatest common divisor</a>
+- <a href="#remove_duplicate">Remove duplicate from array</a>
+- <a href="#swap_number">Swap number</a>
+- <a href="#reverse_string">Reverse string</a>
+- <a href="#reverse_word">Reverse word</a>
+- <a href="#longest_word">Longest word</a>
+- <a href="#recursion">Recursion function</a>
 
-```js
+```js id="prime"
     function isPrime(n) {
     let divisor = 2;
 
@@ -32,5 +32,5 @@
 }
 
 const result = isPrime(50);
-console.log(result); // false 
+console.log(result); // false
 ```
